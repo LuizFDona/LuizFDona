@@ -19,7 +19,7 @@
     height="40" /> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" alt="PowerBI" width="40"
     height="40" /> </a> <a href="https://powerautomate.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img
-    src="hhttps://torpedo.pt/getattachment/3cd6d640-9c04-46ec-a58e-9a74884effb9/Power-Automate-How-to-clone-a-list-item;.aspx" alt="PowerBI" width="40"
+    src="https://static.cognitoforms.com/content/product/assets/images/power-automate-full-logo-b9c3c4d1-fa1f-41be-b75c-31a7d9c00f4c-8fc2c2f-201x201.png" alt="PowerBI" width="40"
     height="40" /> </a>   </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfdona&show_icons=true&locale=en&layout=compact" alt="luizfdona" /></p>
