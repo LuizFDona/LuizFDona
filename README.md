@@ -1,5 +1,6 @@
 <h1 align="center">Oi 👋, Eu sou o Luiz</h1>
-- 🌱 Estou estudando **Power BI, Python e R**
+
+- 🌱 Estou estudando Power BI, Python e R
 
 - 👨‍💻 Você pode encontrar meus projetos no link [https://sites.google.com/view/luizdona](https://sites.google.com/view/luizdona)
 
