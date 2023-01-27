@@ -17,9 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://powerbi.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img    src="https://static.wixstatic.com/media/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.png/v1/fill/w_420,h_420,al_c,lg_1,q_90/322cff_c3cd08ea165f4e41bdb604d646554fc5~mv2.webp" alt="PowerBI" width="40"
     height="40" /> </a>  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" alt="PowerBI" width="40"
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/800px-R_logo.svg.png" alt="R" width="40"
     height="40" /> </a> <a href="https://powerautomate.microsoft.com/pt-br/" target="_blank" rel="noreferrer"> <img
-    src="https://static.cognitoforms.com/content/product/assets/images/power-automate-full-logo-b9c3c4d1-fa1f-41be-b75c-31a7d9c00f4c-8fc2c2f-201x201.png" alt="PowerBI" width="40"
+    src="[https://static.cognitoforms.com/content/product/assets/images/power-automate-full-logo-b9c3c4d1-fa1f-41be-b75c-31a7d9c00f4c-8fc2c2f-201x201.png](https://www.theitteam.co.nz/wp-content/uploads/2020/04/PowerAutomate-icon.png)" alt="PowerAutomate" width="40"
     height="40" /> </a>   </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luizfdona&show_icons=true&locale=en&layout=compact" alt="luizfdona" /></p>
